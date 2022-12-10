@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **The 100 Days of Code Challenge**
 
-- 🌱 I’m currently learning **Python & Ruby**
+- 🌱 I’m currently learning **Python & C#/C++**
 
 - ⚡ Fun fact **I Like Historical European Martial Arts**
 
