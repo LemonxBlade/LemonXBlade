@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anton</h1>
 <h3 align="center">A passionate developer from London</h3>
 
-- 🔭 I’m currently working on **The 100 Days of Code Challenge**
+- 🔭 I’m currently working on **The 30 Days of Code Challenge**
 
 - 🌱 I’m currently learning **Python & C#/C++**
 
